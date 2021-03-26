@@ -33,9 +33,9 @@ module.exports = {
       {
         test: /\.wav$/,
         loader: 'file-loader',
-        // options: {
-        //   outputPath: 'audio',
-        // },
+        options: {
+          outputPath: 'audio',
+        },
       }
     ]
   },
