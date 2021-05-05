@@ -1,2 +1,3 @@
 # Simon_The_Game
-Для запуска склонируйте репозиторий, установите модули командой <code>npm i</code> и запустите проект командой <code>npm run dev</code>
+<code>npm i</code> to install modules </br>
+<code>npm run dev</code> to run project
